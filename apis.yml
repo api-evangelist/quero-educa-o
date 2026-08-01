@@ -1,7 +1,30 @@
 aid: quero-educa-o
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/quero-educa-o.png
 name: Quero Educação
-description: Quero Educação is a company surfaced as a portfolio company of 500-global and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Quero Educação is a Brazilian education-technology company that operates a
+  marketplace connecting students with higher-education institutions across
+  Brazil. Its flagship product Quero Bolsa lets students compare colleges,
+  courses and schools with price transparency and enroll online at discounted
+  tuition, while a suite of institution-facing products — Nota Quero (online
+  entrance exams), Matrícula Digital (digital enrollment), Quero Pago (tuition
+  payments) and Quero Analytics (data intelligence) — helps partner schools
+  fill seats and manage admissions. The company is a 500 Global portfolio
+  company. It maintains a private GitHub organization and a public engineering
+  blog on Medium, but exposes no public developer API, developer portal, or
+  published API documentation at this time; this profile captures its public
+  identity, domain-security posture, and commercial/legal surfaces.
 url: https://raw.githubusercontent.com/api-evangelist/quero-educa-o/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +34,21 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 1
+  pass: local-v1
 tags:
 - Company
+- Education
+- EdTech
+- Marketplace
+- Brazil
+- Scholarships
+- Higher Education
+- Enrollment
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +58,15 @@ maintainers:
 common:
 - type: Website
   url: https://sobre.quero.com
+- type: Blog
+  url: https://medium.com/techatquero
+- type: GitHubOrganization
+  url: https://github.com/queroeducacao
+- type: Support
+  url: https://querobolsa.com.br/central-de-ajuda
+- type: TermsOfService
+  url: https://querobolsa.com.br/ajuda/termos
+- type: PrivacyPolicy
+  url: https://querobolsa.com.br/ajuda/privacidade
+- type: DomainSecurity
+  url: security/quero-educa-o-domain-security.yml
