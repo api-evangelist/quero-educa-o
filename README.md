@@ -64,6 +64,84 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Quero Educação is a company surfaced as a portfolio company of 500-global and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Quero Educação is a Brazilian education-technology company that operates a marketplace connecting students with higher-education institutions across Brazil. Its flagship product Quero Bolsa lets students compare colleges, courses and schools with price transparency and enroll online at discounted tuition, while a suite of institution-facing products — Nota Quero (online entrance exams), Matrícula Digital (digital enrollment), Quero Pago (tuition payments) and Quero Analytics (data intelligence) — helps partner schools fill seats and manage admissions. The company is a 500 Global portfolio company. It maintains a private GitHub organization and a public engineering blog on Medium, but exposes no public developer API, developer portal, or published API documentation at this time; this profile captures its public identity, domain-security posture, and commercial/legal surfaces.
 
-Backed by: 500-global — https://sobre.quero.com
+**Areas:** Company · Education · EdTech · Marketplace · Brazil · Scholarships · Higher Education · Enrollment
+
+## Quero Educação on APIs.io
+
+Everything profiled for Quero Educação is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/quero-educa-o/](https://apis.io/providers/quero-educa-o/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Quero Educa O Domain Security](https://apis.io/security/quero-educa-o/quero-educa-o-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://sobre.quero.com)
+- [Support](https://querobolsa.com.br/central-de-ajuda)
+- [Blog](https://medium.com/techatquero)
+- [Terms of service](https://querobolsa.com.br/ajuda/termos)
+- [Privacy policy](https://querobolsa.com.br/ajuda/privacidade)
+- [GitHub](https://github.com/queroeducacao)
+
+## API Evangelist rating
+
+**Kin Score 10.1** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Education & Research
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/quero-educa-o/](https://apis.io/providers/quero-educa-o/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Quero Educação: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/quero-educa-o/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
